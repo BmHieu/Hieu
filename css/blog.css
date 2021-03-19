@@ -1,0 +1,161 @@
+/* NAV */
+
+.ht-header {
+    padding-bottom: 30px;
+    background: linear-gradient(0deg, rgba(7, 24, 49, 0.61), rgba(7, 24, 49, 0.61)), url(../image/bg-header.jpg);
+    background-size: cover;
+}
+
+.nav-custom {
+    padding: 30px 0;
+    background-color: #fff0;
+}
+
+.navbar-nav .nav-item .nav-blog-color {
+    color: #dcf835;
+}
+
+.navbar-nav .nav-item .nav-blog-color:hover {
+    color: #dcf835;
+}
+
+.navbar-nav .nav-item .nav-link-color {
+    color: #abb7c4 !important;
+}
+
+.navbar-nav .nav-item .nav-link-color:hover {
+    color: #dcf835 !important;
+}
+
+.navbar-nav .nav-item a {
+    font-weight: bold;
+}
+
+.btn-padding {
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-right: 30px;
+    width: 150px;
+}
+
+
+/* BLOG Card */
+
+.page-single {
+    background-color: #020d18;
+}
+
+.col-inline {
+    display: flex;
+    flex-direction: row;
+}
+
+.title-hd h2 {
+    padding-top: 40px;
+    color: #fff;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.Category-title {
+    display: flex;
+    flex-direction: row;
+}
+
+.Category-title h6 {
+    padding-right: 20px;
+    margin-bottom: 20px;
+}
+
+.Category-title a {
+    color: #abb7c4;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.Category-title a:hover {
+    color: #dcf835;
+}
+
+.blog-item-style-1 {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    align-items: center;
+    padding-left: 20px;
+}
+
+.blog-item-style-3 {
+    background-color: #071829;
+    margin-bottom: 30px;
+    overflow: hidden;
+}
+
+.blog-item-style-1 img {
+    margin-right: 30px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    border-radius: 5px;
+}
+
+.blog-it-infor a {
+    text-decoration: none;
+    color: #93c83e;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.blog-it-infor .time {
+    color: #abb7c4;
+    font-size: 14px;
+}
+
+.blog-it-infor p {
+    color: #f0ffff;
+}
+
+.sb-title h2,
+h4 {
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+.celeb-item {
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+
+.celeb-item img {
+    border-radius: 5px;
+    margin-right: 20px;
+}
+
+.celeb-title a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+.celeb-author a {
+    color: #fff;
+    font-size: 13px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.celeb-author h6 {
+    text-align: center;
+}
+
+.celeb-author h6 {
+    padding-top: 25px;
+}
+
+.celeb-author a:hover {
+    color: #93c83e;
+    text-decoration: none;
+}
