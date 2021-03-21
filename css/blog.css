@@ -99,7 +99,6 @@
     border-radius: 5px;
 }
 
-<<<<<<< HEAD
 .blog-item-style-1 img {
     transition: all 0.5s ease-out;
 }
@@ -113,8 +112,6 @@
     color: #eeff00;
 }
 
-=======
->>>>>>> 4d0599af6e12413c8168e1cfdf2d813bf5832422
 .blog-it-infor a {
     text-decoration: none;
     color: #93c83e;
@@ -150,7 +147,6 @@ h4 {
     margin-right: 20px;
 }
 
-<<<<<<< HEAD
 .celeb-item:hover img {
     transform: scale(1.1);
     transition: all 0.25s ease-out;
@@ -161,8 +157,6 @@ h4 {
     text-decoration: none;
 }
 
-=======
->>>>>>> 4d0599af6e12413c8168e1cfdf2d813bf5832422
 .celeb-title a {
     text-decoration: none;
     color: #fff;
@@ -187,7 +181,6 @@ h4 {
 .celeb-author a:hover {
     color: #93c83e;
     text-decoration: none;
-<<<<<<< HEAD
 }
 
 
@@ -205,6 +198,4 @@ h4 {
 
 .backtotop p {
     margin: 0;
-=======
->>>>>>> 4d0599af6e12413c8168e1cfdf2d813bf5832422
 }
