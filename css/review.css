@@ -11,12 +11,12 @@
     background-color: #fff0;
 }
 
-.navbar-nav .nav-item .nav-blog-color {
-    color: #dcf835;
+.navbar-nav .nav-item .nav-review-color {
+    color: #dcf835 !important;
 }
 
-.navbar-nav .nav-item .nav-blog-color:hover {
-    color: #dcf835;
+.navbar-nav .nav-item .nav-review-color:hover {
+    color: #dcf835 !important;
 }
 
 .navbar-nav .nav-item .nav-link-color {
@@ -77,39 +77,36 @@
     color: #dcf835;
 }
 
-.blog-item-style-1 {
-    display: flex;
-    flex-direction: row;
+.card-margin {
+    margin: 5px !important;
+    background-color: #020d18;
+    color: #fff;
+}
+
+.card img {
     width: 100%;
-    align-items: center;
-    padding-left: 20px;
-}
-
-.blog-item-style-3 {
-    background-color: #071829;
-    margin-bottom: 30px;
-    overflow: hidden;
-}
-
-.blog-item-style-1 img {
-    margin-right: 30px;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
+    margin-bottom: 20px;
     border-radius: 5px;
-    border-radius: 5px;
-}
-
-.blog-item-style-1 img {
     transition: all 0.5s ease-out;
 }
 
-.blog-item-style-1:hover img {
+.card:hover img {
     transform: scale(1.1);
     transition: all 0.5s ease-out;
 }
 
-.blog-item-style-1:hover a {
+.card .card-body h5 a {
+    color: #93c83e;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.card:hover .card-title a {
     color: #eeff00;
+}
+
+.card-body-padding {
+    padding: 0;
 }
 
 .blog-it-infor a {
@@ -145,6 +142,7 @@ h4 {
 .celeb-item img {
     border-radius: 5px;
     margin-right: 20px;
+    transition: all 0.25s ease-out;
 }
 
 .celeb-item:hover img {
@@ -176,11 +174,6 @@ h4 {
 
 .celeb-author h6 {
     padding-top: 25px;
-}
-
-.celeb-author a:hover {
-    color: #93c83e;
-    text-decoration: none;
 }
 
 

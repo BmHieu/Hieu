@@ -117,3 +117,20 @@ h4 {
     color: #93c83e;
     text-decoration: none;
 }
+
+
+/* footer */
+
+.ht-footer {
+    background-color: #071829;
+}
+
+.flex-parent-ft {
+    text-align: center;
+    color: #fff;
+    padding: 10px 0;
+}
+
+.backtotop p {
+    margin: 0;
+}
